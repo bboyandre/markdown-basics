@@ -1,6 +1,6 @@
 #Basicos de Markdown
 
-([Markdown]) permite você escrever usando um formato de texto fácil de ler e escrever, que converte em HTML valido para visualização no GitHub.
+Markdown permite você escrever usando um formato de texto fácil de ler e escrever, que converte em HTML valido para visualização no GitHub.
 
 ##Escrita Basica
 
@@ -12,10 +12,10 @@ Em 3 de Julho, os cavaleiros negros, um esuqdrão do corpo de fuzileiros navais 
 ###Cabeçalhos
 
 Você pode criar um título, adicionando um ou mais símbolos # antes de seu texto de título. O número de # você usa irá determinar o tamanho do cabeçalho.
-# O maior título (an <h1> tag) 
-## O segundo maior título (an <h2> tag)
+<code>#</code> O maior título (an <h1> tag) 
+<code>##</code> O segundo maior título (an <h2> tag)
 …
-###### O sexto maior título (an <h6> tag)
+<code>######</code> O sexto maior título (an <h6> tag)
 
 ###Citações
 
