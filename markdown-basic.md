@@ -60,8 +60,8 @@ Você pode criar listas aninhadas pelo recuo de itens da lista por dois espaços
  2. No entanto, outro ponto a considerar.
 2. O Item 2
  * Um corolário que não precisam ser solicitados.
-  * Esta é recuado quatro espaços, porque é dois espaços mais longe do que o item acima.
-  * Você pode querer considerar fazer uma nova lista.
+   * Esta é recuado quatro espaços, porque é dois espaços mais longe do que o item acima.
+   * Você pode querer considerar fazer uma nova lista.
 3. O Item 3
 
 ##Formatação do Código
