@@ -16,12 +16,12 @@ Em 3 de Julho, os cavaleiros negros, um esuqdrão do corpo de fuzileiros navais 
 
 Você pode criar um título, adicionando um ou mais símbolos # antes de seu texto de título. O número de # você usa irá determinar o tamanho do cabeçalho.
 
-<code>#</code> O maior título (an <code><h1></code> tag)
+<code>#</code> O maior título (an h1 tag)
 
-<code>##</code> O segundo maior título (an <code><h2></code> tag)
+<code>##</code> O segundo maior título (an h2 tag)
 …
 
-<code>######</code> O sexto maior título (an <code><h6></code> tag)
+<code>######</code> O sexto maior título (an h6 tag)
 
 ###Citações
 
@@ -29,7 +29,7 @@ Você pode indicar sua citação com um >.
 
 *Este texto será italico*
 
-_Este texto será negrito_
+**Este texto será negrito**
 
 Ambos negrito e itálico podem usar um * ou um _ em torno do texto para o estilo. Isso permite que você combinar os dois em negrito e itálico, se necessário.
 
