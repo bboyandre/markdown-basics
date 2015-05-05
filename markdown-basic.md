@@ -76,7 +76,7 @@ Você pode criar listas aninhadas pelo recuo de itens da lista por dois espaços
 ###Formatos em Linha
 
 Use acentos graves (`) para formatar o texto em um formato especial monospace. Tudo dentro dos acentos graves aparecem como está, sem nenhuma outra formatação especial.
-Aqui está uma idéia: por que não vamos tomar \` SuperiorProject \` e transformá-lo em `**Reasonable**Project`.
+Aqui está uma idéia: por que não vamos tomar `SuperiorProject` e transformá-lo em `**Reasonable**Project`.
 
 ###Várias Linhas
 
