@@ -19,6 +19,7 @@ Você pode criar um título, adicionando um ou mais símbolos # antes de seu tex
 <code>#</code> O maior título (an h1 tag)
 
 <code>##</code> O segundo maior título (an h2 tag)
+
 …
 
 <code>######</code> O sexto maior título (an h6 tag)
@@ -67,7 +68,7 @@ Você pode criar listas aninhadas pelo recuo de itens da lista por dois espaços
 2. O Item 2
  * Um corolário que não precisam ser solicitados.
    * Esta é recuado quatro espaços, porque é dois espaços mais longe do que o item acima.
-   * Você pode querer considerar fazer uma nova lista.
+    * Você pode querer considerar fazer uma nova lista.
 3. O Item 3
 
 ##Formatação do Código
