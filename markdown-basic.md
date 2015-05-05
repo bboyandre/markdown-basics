@@ -14,7 +14,7 @@ Em 3 de Julho, os cavaleiros negros, um esuqdrão do corpo de fuzileiros navais 
 
 Você pode criar um título, adicionando um ou mais símbolos # antes de seu texto de título. O número de # você usa irá determinar o tamanho do cabeçalho.
 
-<code>#</code> O maior título (an <h1> tag) 
+<code>#</code> O maior título (an <h1> <code>tag</code>) 
 
 <code>##</code> O segundo maior título (an <h2> tag)
 …
