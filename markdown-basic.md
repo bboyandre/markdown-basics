@@ -85,7 +85,9 @@ Confira este programa limpo que eu escrevi:
 
 `` `
 x = 0
+
 x = 2 + 2
+
 o que é x
 `` `
 
