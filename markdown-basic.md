@@ -43,10 +43,12 @@ Ambos negrito e itálico podem usar um * ou um _ em torno do texto para o estilo
 Você pode fazer uma lista desordenada precedendo itens da lista ou com um * ou um -.
 
 * Item
+
 * Item
 * Item
 
 - Item
+
 - Item
 - Item
  
