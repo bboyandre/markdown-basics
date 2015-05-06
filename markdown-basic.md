@@ -28,9 +28,9 @@ Você pode criar um título, adicionando um ou mais símbolos # antes de seu tex
 
 Você pode indicar sua citação com um >.
 
-*Este texto será italico*
+Este texto será *italico*
 
-**Este texto será negrito**
+Este texto será **negrito**
 
 Ambos negrito e itálico podem usar um * ou um _ em torno do texto para o estilo. Isso permite que você combinar os dois em negrito e itálico, se necessário.
 
@@ -76,7 +76,7 @@ Você pode criar listas aninhadas pelo recuo de itens da lista por dois espaços
 ###Formatos em Linha
 
 Use acentos graves (\`) para formatar o texto em um formato especial monospace. Tudo dentro dos acentos graves aparecem como está, sem nenhuma outra formatação especial.
-Aqui está uma idéia: por que não vamos tomar `"SuperiorProject"` e transformá-lo em ' "**Reasonable**Project" '.
+Aqui está uma idéia: por que não vamos tomar `"SuperiorProject"` e transformá-lo em `"**Reasonable**Project"`.
 
 ###Várias Linhas
 
